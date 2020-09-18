@@ -1,1 +1,1 @@
-# stm32-cubeide-air-conditioning-system-with-servomotor-buzzer-uart-potentiometer
+STM32 - CubeIDE | Air Conditining System with Servo Motor, Buzzer, UART and Potentiometer
